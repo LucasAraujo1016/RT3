@@ -1,1 +1,1 @@
-# RT3
+O módulo criado para exportação se encontra nesse repositório: https://github.com/LucasAraujo1016/RT3-Modulo
